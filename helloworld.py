@@ -11,8 +11,6 @@ def select_file():
 def sanitize_filename(filename):
     # Define a string containing all forbidden character
     # Define a string containing all forbidden character
-    # Define a string containing all forbidden character
-    # Define a string containing all forbidden character
     forbidden_characters = r'\/:*?"<>,|'
     
     # Replace each forbidden character with a space
